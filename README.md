@@ -12,3 +12,6 @@ Key Features:
 📱 Fully responsive, mobile-friendly design
 
 ⚡ Fast search and user-friendly navigation
+
+
+![tripocity.png](https://github.com/Shwta23/Tripocity/blob/main/tripocity.png)
